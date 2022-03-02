@@ -1,2 +1,2 @@
-# kečup
-plastovi smrdi koule
+# tláča
+tlačenka s cibluej je výbornáááááááááá
