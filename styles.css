@@ -4,6 +4,13 @@ body {
   h1 {
     color: blue;
   }
-  p {
+  h1.putin-no {
     color: red;
+  }
+
+  h1.slava {
+    color: #005bbc;
+  }
+  h1.ukrajini {
+    color: #ffd600;
   }
