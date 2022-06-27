@@ -1,9 +1,16 @@
 body {
-    background-color: rgba(21, 247, 0, 0.788);
+    background-color: rgba(16, 229, 22, 0);
   }
   h1 {
     color: blue;
   }
-  p {
+  h1.putin-no {
     color: red;
+  }
+
+  h1.slava {
+    color: #005bbc;
+  }
+  h1.ukrajini {
+    color: #ffd600;
   }
